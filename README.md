@@ -29,3 +29,7 @@ https://my.telegram.org в России заблокирован. Сайт не 
 
 Если DC не равен 2 - меняем в программе DC_ID на свой.
 
+
+Link:
+https://t.me/myFreeYouTubeForYou/220
+
